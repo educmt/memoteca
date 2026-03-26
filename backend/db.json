@@ -1,0 +1,15 @@
+{
+  "pensamentos": [
+    {
+      "id": "8b1e",
+      "conteudo": "Você não é todo mundo!",
+      "autoria": "Mãe"
+    },
+    {
+      "id": "b6ed",
+      "conteudo": "Alor",
+      "autoria": "adfs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
