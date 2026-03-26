@@ -51,8 +51,14 @@ Acesse o backend localmente em seu navegador:
 
 http://localhost:3000
 
+
 Para executar o frontend, abra o projeto no Visual Studio Code. Com a extensão Live Server instalada, clique com o botão direito no arquivo index.html e selecione "Open with Live Server" no menu de contexto.
 
 Acesse o frontend localmente em seu navegador:
 
 http://localhost:5500
+
+---
+
+# 📚 Créditos
+Esse projeto foi desenvolvido durante o curso "Implementando CRUD com requisições HTTP" da plataforma Alura.
