@@ -59,6 +59,12 @@ Acesse o frontend localmente em seu navegador:
 http://localhost:5500
 
 ---
+# 📷 Mídia
+
+<img width="959" height="933" alt="image" src="https://github.com/user-attachments/assets/7b7ec34c-388f-4a97-919d-9ec220572611" />
+
+
+---
 
 # 📚 Créditos
 Esse projeto foi desenvolvido durante o curso "Implementando CRUD com requisições HTTP" da plataforma Alura.
